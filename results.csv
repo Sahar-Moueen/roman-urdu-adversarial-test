@@ -1,0 +1,7 @@
+attack,recall,evasion_rate
+none (original),0.66,0.0
+vowel_swap,0.8,0.0
+leetspeak,0.86,0.18181818181818182
+spaced_letters,0.74,0.21212121212121213
+repeat_vowels,0.62,0.30303030303030304
+combined,0.7,0.30303030303030304

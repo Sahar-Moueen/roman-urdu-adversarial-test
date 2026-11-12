@@ -1,0 +1,6 @@
+attack,insult,scam,threat
+combined,0.21,0.29,0.42
+leetspeak,0.07,0.14,0.33
+repeat_vowels,0.21,0.14,0.5
+spaced_letters,0.0,0.14,0.5
+vowel_swap,0.0,0.0,0.0

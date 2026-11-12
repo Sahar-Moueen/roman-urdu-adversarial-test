@@ -1,0 +1,65 @@
+attack,original,attacked,score
+vowel_swap,"aap ke number par lucky draw nikla hai, apna cnic number bhejain","ap ke number par lucky draw nikla he, apna cnic number bhejen",0.001
+vowel_swap,"bisp program mein aap ka naam aaya hai, registration fee 1000 jama karwayen","bisp program mein ap ka nam aea he, registration fi 1000 jama karwin",0.0
+vowel_swap,"ghar baithay roz 5000 kamayen, joining fee sirf 2000","ghar bethe roz 5000 kamin, joining fi sirf 2000",0.001
+vowel_swap,"congratulations aap ko naukri mil gayi hai, training fee 3000 bhejain","congratulations ap ko naukri mil gei he, trening fi 3000 bhejen",0.001
+vowel_swap,"aap ne iphone jeeta hai, delivery charges 800 easypaisa karein","ap ne iphone jita he, delivery charges 800 easypesa karein",0.0
+vowel_swap,"saudi arab mein visa lag gaya hai, processing fee 15000 is account mein bhejain","saudi arab mein visa lag gea he, processing fi 15000 is accont mein bhejen",0.002
+vowel_swap,"online investment karo, ek hafte mein paisa double, abhi 10000 lagao","online investment karo, ek hafte mein pesa doble, abhi 10000 lagao",0.001
+vowel_swap,"aap ka whatsapp band hone wala hai, link par click kar ke verify karein","ap ka whatsapp band hone wala he, link par click kar ke verify karein",0.003
+vowel_swap,dekh lena tumhe kal chhoron ga nahi,dekh lena tumhe kal chhoron ga nahi,0.2
+vowel_swap,case wapas lo warna pachtao ge,case wapas lo warna pachtao ge,0.192
+leetspeak,"aap ke number par lucky draw nikla hai, apna cnic number bhejain","@@p ke number par lucky draw n1kla hai, @pna cn1c numb3r bh3jain",0.002
+leetspeak,"aap ke account se ghalat transaction hui hai, wapas lene ke liye otp do","a@p k3 @cc0unt $3 ghal@t trans@ct10n hui ha1, wapas lene k3 l1y3 0tp do",0.008
+leetspeak,tum ne dobara phone kiya to bura haal kar dun ga,tum n3 dob@ra ph0ne k1y@ t0 bur@ h@al kar dun g@,0.006
+leetspeak,apni zuban sambhal warna sabaq sikha dein ge,@pn1 zuban sambh@l w@rn@ $@b@q s1kha dein g3,0.0
+leetspeak,"yeh aakhri warning hai, warna nateeja bhugto ge","y3h @akhr1 w@rn1ng h@1, warn@ n@teej@ bhugto ge",0.001
+leetspeak,tumhari dukaan jala dein ge agar bhatta nahi diya,tumh@ri duk@an jala de1n g3 @gar bhatta n@hi diy@,0.0
+leetspeak,teri soch itni ghatiya hai ke ghin aati hai,t3r1 $och 1tni ghatiy@ ha1 k3 ghin @at1 h@i,0.001
+spaced_letters,"ghar baithay roz 5000 kamayen, joining fee sirf 2000","g h a r b a i t h a y roz 5 0 0 0 kamayen, j o i n i n g fee s i r f 2000",0.001
+spaced_letters,"bank se bol raha hun, aap ka card expire ho gaya hai, card ke peeche wala code batayen","b a n k se bol raha h u n , aap ka c a r d expire ho gaya hai, card ke peeche w a l a c o d e b a t a y e n",0.001
+spaced_letters,"aap ki sim band ho jaye gi, verification ke liye otp batayen","aap ki sim band ho jaye gi, verification ke liye otp batayen",0.001
+spaced_letters,"congratulations aap ko naukri mil gayi hai, training fee 3000 bhejain","congratulations aap ko n a u k r i mil gayi h a i , training fee 3 0 0 0 b h e j a i n",0.0
+spaced_letters,"aap ne iphone jeeta hai, delivery charges 800 easypaisa karein","aap ne iphone j e e t a hai, delivery charges 800 easypaisa karein",0.0
+spaced_letters,"saudi arab mein visa lag gaya hai, processing fee 15000 is account mein bhejain","s a u d i a r a b mein visa lag g a y a hai, p r o c e s s i n g fee 1 5 0 0 0 is a c c o u n t mein b h e j a i n",0.001
+spaced_letters,"aap ka benazir income support ka paisa aa gaya hai, apna code send karein","aap ka b e n a z i r i n c o m e support ka p a i s a aa gaya h a i , a p n a code s e n d k a r e i n",0.001
+spaced_letters,"tumhara ghar mujhe pata hai, sambhal kar rehna","t u m h a r a g h a r m u j h e pata h a i , sambhal kar rehna",0.008
+spaced_letters,tumhari tasveerein sab ko bhej dun ga agar baat na mani,t u m h a r i t a s v e e r e i n sab ko b h e j dun ga a g a r baat na m a n i,0.003
+spaced_letters,raat ko bahar nikle to khair nahi,raat ko bahar n i k l e to khair nahi,0.001
+spaced_letters,mere raste mein aaye to barbad kar dun ga,m e r e raste mein a a y e to b a r b a d kar dun ga,0.034
+spaced_letters,tumhari dukaan jala dein ge agar bhatta nahi diya,t u m h a r i d u k a a n jala d e i n ge a g a r b h a t t a n a h i d i y a,0.001
+spaced_letters,ek ghante mein paise do warna tumhari video viral kar dun ga,ek ghante mein paise do w a r n a t u m h a r i video v i r a l kar dun ga,0.002
+repeat_vowels,"mubarak ho aap ne 25000 ka inaam jeeta hai, claim karne ke liye 500 fee bhejain","muubarak hoo aaap nee 25000 ka inaaam jeeta haaii, claim kaarne ke liiyee 500 feee bhejain",0.005
+repeat_vowels,"aap ka parcel customs mein ruka hua hai, 1500 bhej kar release karwayen","aap ka parcel customs meeiin ruka hua haaii, 1500 bhej kar reeleasee karwayen",0.328
+repeat_vowels,"ghar baithay roz 5000 kamayen, joining fee sirf 2000","ghar baaithay roz 5000 kamaayen, joining fee sirf 2000",0.001
+repeat_vowels,"congratulations aap ko naukri mil gayi hai, training fee 3000 bhejain","congratulatioons aaap ko naukri mil gayi haai, training feeee 3000 bheejain",0.001
+repeat_vowels,"aap ne iphone jeeta hai, delivery charges 800 easypaisa karein","aaap ne iphone jeeeta hai, deliiveery chaargees 800 easypaaisaa karein",0.004
+repeat_vowels,"saudi arab mein visa lag gaya hai, processing fee 15000 is account mein bhejain","saaudii aarab meein visa lag gaya haaii, proocessing fee 15000 iis account mein bhejain",0.001
+repeat_vowels,"aap ka benazir income support ka paisa aa gaya hai, apna code send karein","aaaap ka beenaziir iincoome support ka paiisaa aa gaya hai, aapnaa code send kaareiin",0.009
+repeat_vowels,"online investment karo, ek hafte mein paisa double, abhi 10000 lagao","online iinvestment kaaro, ek haftee mein paaisaa double, abhi 10000 lagaao",0.001
+repeat_vowels,"aap ka whatsapp band hone wala hai, link par click kar ke verify karein","aap ka whatsapp baand hoonee walaa haai, link par click kaar ke verify kareein",0.004
+repeat_vowels,agar police ko bataya to anjaam bura ho ga,agar pooliice ko bataya to aanjaaam buraa hoo gaa,0.035
+repeat_vowels,"tumhara ghar mujhe pata hai, sambhal kar rehna","tumhara ghar mujhe pataa haai, sambhaal kar rehnaa",0.016
+repeat_vowels,paise wapas nahi kiye to tumhari tangen tor dun ga,paiise wapas naahi kiyee too tumhaari tangen tor dun gaa,0.214
+repeat_vowels,tumhari tasveerein sab ko bhej dun ga agar baat na mani,tumharii tasveereiin saab koo bheej dun ga aagar baaat naa manii,0.001
+repeat_vowels,case wapas lo warna pachtao ge,caasee wapas lo waarna pachtao ge,0.129
+repeat_vowels,mere raste mein aaye to barbad kar dun ga,mere raaste meiin aayee to baarbad kar dun ga,0.002
+repeat_vowels,tumhari dukaan jala dein ge agar bhatta nahi diya,tumharii dukaaan jala dein ge agar bhaattaa naahi diya,0.021
+repeat_vowels,"tumhara dimagh khali hai, kuch samajh nahi aata","tumhara dimagh khaali haaii, kuch samajh naahii aata",0.002
+repeat_vowels,"nikamme insaan, kisi kaam ke nahi ho","niikamme insaan, kisi kaaaam kee nahi ho",0.002
+repeat_vowels,"kitna gandaa insaan hai yeh, sharam nahi aati","kiitna gandaaa insaaan hai yeh, shaaram naahi aaati",0.004
+combined,"mubarak ho aap ne 25000 ka inaam jeeta hai, claim karne ke liye 500 fee bhejain","mubar@k h0 @p n3 25000 ka 1nam j1t@ h3, cl3m k@rn3 k3 liy3 500 f1 bhej3n",0.001
+combined,"aap ka bank account block ho gaya hai, fori apna atm pin share karein","ap ka bank @ccont bl0ck h0 g3a he, f0r1 @pna @tm p1n sh@re k@re1n",0.001
+combined,"aap ke number par lucky draw nikla hai, apna cnic number bhejain","ap ke numb3r p@r lucky draw n1kl@ h3, @pna cnic number bhejen",0.0
+combined,"jazzcash se 2000 bhejo, aap ka 50000 ka inaam release ho jaye ga","jazzc@sh se 2000 bhej0, ap k@ 50000 k@ 1n@m r3lea$3 h0 j1 ga",0.001
+combined,"ghar baithay roz 5000 kamayen, joining fee sirf 2000","ghar b3th3 roz 5000 kamin, j0ining fi sirf 2000",0.001
+combined,"congratulations aap ko naukri mil gayi hai, training fee 3000 bhejain","congr@tul@ti0ns @p ko n@ukri m1l ge1 h3, tren1ng f1 3000 bh3jen",0.0
+combined,"aap ne iphone jeeta hai, delivery charges 800 easypaisa karein","@p ne iph0n3 j1t@ he, d3livery charg3$ 800 3@syp3$a k@rein",0.003
+combined,agar police ko bataya to anjaam bura ho ga,@g@r polic3 k0 b@t3@ to anjam bur@ ho g@,0.001
+combined,apni zuban sambhal warna sabaq sikha dein ge,@pn1 zub@n s@mbhal w@rn@ $ab@q $1kh@ dein ge,0.002
+combined,"kal college ke bahar milo, phir dekhte hain","kal college k3 bah@r milo, ph1r d3kht3 h3n",0.017
+combined,tumhari dukaan jala dein ge agar bhatta nahi diya,tumhar1 dukan jala d3in ge @gar bh@tta n@hi d1ya,0.002
+combined,ek ghante mein paise do warna tumhari video viral kar dun ga,ek ghant3 m31n p3$3 d0 w@rna tumhari v1d3o v1r@l kar dun ga,0.29
+combined,"shakal dekhi hai apni, bilkul bandar lagte ho","$h@kal dekh1 h3 @pn1, bilkul band@r l@gt3 h0",0.001
+combined,"tum pagal ho, doctor ko dikhao apna dimagh","tum p@gal h0, d0ct0r ko dikh@o @pn@ dimagh",0.001
+combined,teri soch itni ghatiya hai ke ghin aati hai,t3r1 $och itni ghatiy@ h3 k3 ghin at1 he,0.008
