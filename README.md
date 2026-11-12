@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sahar-Moueen/roman-urdu-adversarial-test/blob/main/roman_urdu_adversarial_test.ipynb)
+
 During my internship at Valyrian Systems, we built a system to flag harmful content. It worked on our test data, but I always wondered what would happen if someone tried to get past it on purpose. This is my small attempt to test that in Roman Urdu, where scams and abuse in Pakistan are often written and nobody spells words the same way.
 
 ## What I did
@@ -23,6 +25,7 @@ During my internship at Valyrian Systems, we built a system to flag harmful cont
 | repeat_vowels | 0.30 | 0.21 | 0.14 | 0.50 |
 | combined | 0.30 | 0.21 | 0.29 | 0.42 |
 
+![Recall under attack](results_chart.png)
 
 One surprise: some attacks made recall go up, because symbols made the model flag scams it had missed. So it seems to judge how a message looks, not what it says.
 
