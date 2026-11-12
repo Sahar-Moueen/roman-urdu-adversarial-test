@@ -1,0 +1,101 @@
+text,label,type
+"mubarak ho aap ne 25000 ka inaam jeeta hai, claim karne ke liye 500 fee bhejain",1,scam
+"aap ka bank account block ho gaya hai, fori apna atm pin share karein",1,scam
+"aap ke number par lucky draw nikla hai, apna cnic number bhejain",1,scam
+"jazzcash se 2000 bhejo, aap ka 50000 ka inaam release ho jaye ga",1,scam
+"aap ka easypaisa account band ho raha hai, otp code abhi bhejo",1,scam
+"bisp program mein aap ka naam aaya hai, registration fee 1000 jama karwayen",1,scam
+"aap ka parcel customs mein ruka hua hai, 1500 bhej kar release karwayen",1,scam
+"ghar baithay roz 5000 kamayen, joining fee sirf 2000",1,scam
+"bank se bol raha hun, aap ka card expire ho gaya hai, card ke peeche wala code batayen",1,scam
+"aap ki sim band ho jaye gi, verification ke liye otp batayen",1,scam
+"congratulations aap ko naukri mil gayi hai, training fee 3000 bhejain",1,scam
+"aap ne iphone jeeta hai, delivery charges 800 easypaisa karein",1,scam
+"aap ke beta ka accident hua hai, hospital ke liye fori paise bhejo is number par",1,scam
+"pta se message hai, aap ka mobile block ho jaye ga, tax 1200 abhi jama karwayen",1,scam
+"aap ka atm card hack ho gaya hai, naya pin set karne ke liye purana pin batayen",1,scam
+"saudi arab mein visa lag gaya hai, processing fee 15000 is account mein bhejain",1,scam
+"aap ka benazir income support ka paisa aa gaya hai, apna code send karein",1,scam
+"online investment karo, ek hafte mein paisa double, abhi 10000 lagao",1,scam
+"aap ke account se ghalat transaction hui hai, wapas lene ke liye otp do",1,scam
+"aap ka whatsapp band hone wala hai, link par click kar ke verify karein",1,scam
+dekh lena tumhe kal chhoron ga nahi,1,threat
+agar police ko bataya to anjaam bura ho ga,1,threat
+"tumhara ghar mujhe pata hai, sambhal kar rehna",1,threat
+paise wapas nahi kiye to tumhari tangen tor dun ga,1,threat
+tum ne dobara phone kiya to bura haal kar dun ga,1,threat
+apni zuban sambhal warna sabaq sikha dein ge,1,threat
+"kal college ke bahar milo, phir dekhte hain",1,threat
+tumhari tasveerein sab ko bhej dun ga agar baat na mani,1,threat
+"yeh aakhri warning hai, warna nateeja bhugto ge",1,threat
+raat ko bahar nikle to khair nahi,1,threat
+"tumhare bachon ka khayal rakhna, kuch bhi ho sakta hai",1,threat
+case wapas lo warna pachtao ge,1,threat
+mere raste mein aaye to barbad kar dun ga,1,threat
+tumhari dukaan jala dein ge agar bhatta nahi diya,1,threat
+ek ghante mein paise do warna tumhari video viral kar dun ga,1,threat
+tum bilkul bekaar aur ghatiya insaan ho,1,insult
+tum jaise jahil logon se baat karna bhi waqt ki barbadi hai,1,insult
+"shakal dekhi hai apni, bilkul bandar lagte ho",1,insult
+"tumhara dimagh khali hai, kuch samajh nahi aata",1,insult
+"nikamme insaan, kisi kaam ke nahi ho",1,insult
+tum se zyada bewaqoof maine kabhi nahi dekha,1,insult
+"chup kar ghatiya aadmi, teri koi aukaat nahi",1,insult
+tum jaise log is mulk par bojh hain,1,insult
+"kitna gandaa insaan hai yeh, sharam nahi aati",1,insult
+"tum pagal ho, doctor ko dikhao apna dimagh",1,insult
+"bakwas band karo, tumhari baaton mein koi aqal nahi",1,insult
+"tum log hamesha jhoot bolte ho, sab fraud ho",1,insult
+"ullu ke pathay, itna bhi nahi pata",1,insult
+tum jaison ko ghar se nikal dena chahiye,1,insult
+teri soch itni ghatiya hai ke ghin aati hai,1,insult
+bhai kal cricket khelne chalo ge?,0,safe
+"ammi ne khana bana liya hai, ghar jaldi aa jao",0,safe
+"meeting kal subah 10 baje hai, time pe aa jana",0,safe
+shukriya aap ki madad bohat kaam aayi,0,safe
+"eid mubarak, allah aap ko khush rakhe",0,safe
+beta homework kar liya? kal test hai,0,safe
+"aaj mausam bohat acha hai, chai peetay hain",0,safe
+"mujhe raste mein thori dair ho jaye gi, intezar karna",0,safe
+doodh aur anday le aana wapsi par,0,safe
+aap ki tabiyat ab kaisi hai?,0,safe
+"shaadi ka card mil gaya, hum zaroor aayen ge",0,safe
+bijli ka bill jama karwa diya hai,0,safe
+"class cancel ho gayi hai, kal parhai ho gi",0,safe
+"mubarak ho, aap ka result bohat acha aaya",0,safe
+naya phone kaisa chal raha hai?,0,safe
+juma ki namaz ke baad milte hain,0,safe
+"aaj office mein bohat kaam tha, thak gaya hun",0,safe
+bachon ko school se main le lun gi,0,safe
+pizza order kar dein ya ghar pe kuch banayen?,0,safe
+kal se ramzan shuru ho rahe hain,0,safe
+"mera laptop theek ho gaya, shukriya",0,safe
+weekend par naani ke ghar chalein ge,0,safe
+"dawai time par le lena, bhoolna nahi",0,safe
+aap ka gift bohat pyara tha,0,safe
+"traffic bohat zyada hai, aadha ghanta lage ga",0,safe
+match dekha? pakistan jeet gaya,0,safe
+library ki kitaab kal wapas karni hai,0,safe
+"gaari ka tyre puncture ho gaya, mechanic ke paas hun",0,safe
+khala ki beti ki mangni hai is itwaar,0,safe
+aap ka order kal tak deliver ho jaye ga,0,safe_lookalike
+"aap ka parcel courier ke paas hai, kal pohanch jaye ga",0,safe_lookalike
+aap ki salary account mein transfer ho gayi hai,0,safe_lookalike
+"apna otp kisi ke sath share na karein, bank kabhi otp nahi maangta",0,safe_lookalike
+"aap ka bijli ka bill 3200 hai, aakhri tareekh 15 hai",0,safe_lookalike
+"mubarak ho aap ka admission ho gaya, fee voucher portal par dekhein",0,safe_lookalike
+aap ka appointment kal 4 baje confirm hai,0,safe_lookalike
+aap ki jazzcash se 500 ki payment kamyab rahi,0,safe_lookalike
+yaad dihani: aap ki kisht agle hafte due hai,0,safe_lookalike
+"aap ka cnic renewal ho gaya hai, office se collect karein",0,safe_lookalike
+"inaam wala message fraud ho sakta hai, ehtiyat karein",0,safe_lookalike
+"aap ki complaint darj ho gayi hai, jald hal ki jaye gi",0,safe_lookalike
+aap ke account mein 2000 jama hue hain,0,safe_lookalike
+"kal ka match bohat zabardast tha, bhai ne kamal kar diya",0,safe_lookalike
+"yeh movie bohat kamaal ki hai, zaroor dekhna",0,safe_lookalike
+"mujhe naukri mil gayi, dua karna",0,safe_lookalike
+aap ka visa appointment agle mahine hai,0,safe_lookalike
+"school ki fees jama karwa di hai, receipt bhej di",0,safe_lookalike
+"delivery wala bahar khara hai, darwaza khol do",0,safe_lookalike
+"baarish ho rahi hai, chhatri le kar jana",0,safe_lookalike
+"aap ki report normal aayi hai, pareshan na hon",0,safe_lookalike
